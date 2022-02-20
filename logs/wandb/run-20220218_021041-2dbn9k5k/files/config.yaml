@@ -1,0 +1,88 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.10
+    framework: lightning
+    is_jupyter_run: true
+    is_kaggle_kernel: true
+    m:
+    - 1: trainer/global_step
+      6:
+      - 3
+    - 1: valid/logits._type
+      5: 1
+      6:
+      - 1
+    - 1: valid/logits.values
+      5: 1
+      6:
+      - 1
+    - 1: valid/logits.bins
+      5: 1
+      6:
+      - 1
+    - 1: epoch
+      5: 1
+      6:
+      - 1
+    - 1: train_loss
+      5: 1
+      6:
+      - 1
+    - 1: train_accuracy
+      5: 1
+      6:
+      - 1
+    - 1: val_loss
+      5: 1
+      6:
+      - 1
+    - 1: val_accuracy
+      5: 1
+      6:
+      - 1
+    python_version: 3.7.12
+    session_history: code/_session_history.ipynb
+    start_time: 1645150241
+    t:
+      1:
+      - 1
+      - 5
+      - 9
+      2:
+      - 1
+      - 5
+      - 9
+      3:
+      - 2
+      - 7
+      - 13
+      4: 3.7.12
+      5: 0.12.10
+      8:
+      - 1
+      - 2
+      - 5
+dropout:
+  desc: null
+  value: 0.75
+lr:
+  desc: null
+  value: 0.0001
+n_classes:
+  desc: null
+  value: 9
+n_features:
+  desc: null
+  value: 10
+n_hidden:
+  desc: null
+  value: 256
+n_layers:
+  desc: null
+  value: 3
+seq_length:
+  desc: null
+  value: 128

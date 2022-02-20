@@ -1,0 +1,28 @@
+{
+    "os": "Linux-5.4.144+-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.7.12",
+    "heartbeatAt": "2022-02-17T22:31:41.078080",
+    "startedAt": "2022-02-17T22:31:32.927825",
+    "docker": null,
+    "gpu": "Tesla P100-PCIE-16GB",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9004",
+        "--control=9002",
+        "--hb=9001",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"fd5a9c0f-4b8d-4d41-9844-87b3bb42accd\"",
+        "--shell=9003",
+        "--transport=\"tcp\"",
+        "--iopub=9005",
+        "--f=/tmp/tmp-3402ibTea3D4KNif.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "9205f1dd398a",
+    "username": "root",
+    "executable": "/usr/bin/python3"
+}
