@@ -1,3 +1,4 @@
 logs/
 artifacts
 *.csv
+wandb/
