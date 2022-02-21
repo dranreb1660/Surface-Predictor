@@ -1,0 +1,34 @@
+{
+    "os": "Linux-5.4.144+-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.7.12",
+    "heartbeatAt": "2022-02-21T22:23:55.288786",
+    "startedAt": "2022-02-21T22:23:46.931710",
+    "docker": null,
+    "gpu": "Tesla P100-PCIE-16GB",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9009",
+        "--control=9007",
+        "--hb=9006",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"de1dd1c2-64ae-40b6-a173-360c92a2cc3c\"",
+        "--shell=9008",
+        "--transport=\"tcp\"",
+        "--iopub=9010",
+        "--f=/tmp/tmp-2271BP52k1Er551z.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/dranreb1660/Surface-Predictor.git",
+        "commit": "d0c6bedcabf2e33c5316744c21abc8f23ec5d3bf"
+    },
+    "email": null,
+    "root": "/content/drive/Othercomputers/my_mac/Coding_stuff/Projects/Surface_Predictor",
+    "host": "21a517681528",
+    "username": "root",
+    "executable": "/usr/bin/python3"
+}

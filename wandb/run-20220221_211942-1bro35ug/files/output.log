@@ -1,0 +1,15 @@
+
+[34m[1mwandb[39m[22m: Downloading large artifact surface-raw:latest, 145.03MB. 2 files... Done. 0:0:0
+      series_id  group_id        surface
+0             0        13  fine_concrete
+1             1        31       concrete
+2             2        20       concrete
+3             3        31       concrete
+4             4        22     soft_tiles
+...         ...       ...            ...
+3805       3805        55          tiled
+3806       3806        67           wood
+3807       3807        48  fine_concrete
+3808       3808        54          tiled
+3809       3809        56       soft_pvc
+[3810 rows x 3 columns]
